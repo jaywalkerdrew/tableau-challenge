@@ -2,6 +2,8 @@
 Utilized 08-2019 Citi Bike Data
 Intended to use August data across multiple years, but settled for one at the rate at which the program took to run just the first year.
 
+Tableau link: https://public.tableau.com/profile/andrew.walker7418#!/vizhome/CitiBikeAnalysis_16084445062370/GenderatStartStations?publish=yes
+
 ## Phenomenon Focuses
 - Gender and location
 - Age and duration
